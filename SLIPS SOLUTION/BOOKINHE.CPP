@@ -84,32 +84,3 @@ void main()
   getch();
 }
 
-/*
-Output:-
-***********************************************
-How much Media items you Buy?
-2
-The Media Item is CD or Book?
-cd
-Enter the Media title and id
-ds
-121
-Enter data in MB
-300
-Media Title is:- ds
-Media ID is:- 121
-Data is MB=300
-The Media Item is CD or Book?
-book
-Enter the Media title and id
-cpp
-233
-Enter the ISBN number and price
-a-456
-4000
-Media Title is:- cpp
-Media ID is:- 233
-ISBN number =a-456
-Price =4000
-***********************************************
-*/
