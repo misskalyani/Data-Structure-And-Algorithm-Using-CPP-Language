@@ -50,20 +50,7 @@ void main()
 }
 
 
-Output:-
-********************************
-Enter the two numbers to find maximum number
-2354
-2365
-The largest number is 2365
-Enter the FIVE number to find its maximum
-34
-23
-67
-55
-89
-Maximum number is 89
-********************************
+
 
 
 
