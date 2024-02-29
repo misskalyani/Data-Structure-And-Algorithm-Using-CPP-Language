@@ -1,4 +1,4 @@
-// Bubble Sort Method
+
 
 #include<stdio.h>
 #include<conio.h>
@@ -58,26 +58,4 @@ void bubblesort(int a[],int n)
 }
 
 
-/*OUTPUT
- Enter the number of elements==>5
 
- Enter the arrry==>50
-30
-40
-10
-20
-
- The unsorted arry is==>
-
-50
-30
-40
-10
-20
- The sorted array is==>
-
-10
-20
-30
-40
-50*/
