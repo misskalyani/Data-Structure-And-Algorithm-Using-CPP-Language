@@ -143,60 +143,6 @@ break;
 
 
 
-OUTPUT-
-Menu
-1.Create
-2.Insert
-3.Delete
-4.Display
-5.Exit
-Enter the your choice 1
-Enter no. of node 4
 
-Enter the data 123
-
-Enter the data 876
-
-Enter the data 625
-
-Enter the data 985
-
-Menu
-1.Create
-2.Insert
-3.Delete
-4.Display
-5.Exit
-Enter the your choice 4
-
- Linked list  123  876  625  985
-Menu
-1.Create
-2.Insert
-3.Delete
-4.Display
-5.Exit
-Enter the your choice 2
-
-Enter position 3 
-
-Enter number 900
-
-900 Inserted successfully...
-Menu
-1.Create
-2.Insert
-3.Delete
-4.Display
-5.Exit
-Enter the your choice 4
- Linked list  123  876  900  625  985
-Menu
-1.Create
-2.Insert
-3.Delete
-4.Display
-5.Exit
-Enter the your choice5
 
 
