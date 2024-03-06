@@ -17,7 +17,7 @@ int  isempty(struct stack*);
 void push(struct stack*,int);
 int pop(struct stack*);
 void display(struct stack*);
-
+//kalyani Chaudhari 
 void main()
 {
 
