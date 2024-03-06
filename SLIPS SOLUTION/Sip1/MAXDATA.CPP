@@ -15,7 +15,7 @@ class Maxdata
 	   cout<<"The largest number is "<<b<<endl;
 	  }
 	}
-
+  //kalynai Chaudhari 
 	void maximum(int a[10])
 	{
 	int max=0;
